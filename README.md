@@ -11,6 +11,8 @@ This repo contains info on asetting up the RPi IP Addressing
 
 ## Install Raspbian using Pi Imager
 
+Install Imager (https://www.instructables.com/Set-Up-a-Raspberry-Pi-Using-a-Mac/)
+
 ## IP Addressing
 
 ### Using dhcpcd
