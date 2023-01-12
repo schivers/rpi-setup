@@ -51,4 +51,17 @@ Now reload the Pi
 sudo reboot
 ```
 
+# Install Netcat
+```
+sudo apt-get update
+sudo apt-get install netcat
+```
+
+# Install Telnet
+
+```
+sudo apt-get update
+sudo apt-get install telnet
+```
+
 done.
