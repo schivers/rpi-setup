@@ -1,6 +1,6 @@
-## My Mac Setup
+## Set up IP addressing on RPi
 
-This repo contains info on all the apps / tools / settings I use on my Mac.
+This repo contains info on asetting up the RPi IP Addressing
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
